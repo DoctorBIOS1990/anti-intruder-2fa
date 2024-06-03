@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/05/31 13:34:28.000.949,=C:\Users\Doctor BIOS\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/31 13:35:47.000.489,C:\Users\Doctor BIOS\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Proyectos RAD Studio\DoubleFactor\Unit1.pas</Transaction>
+    <Transaction>2024/05/31 13:35:47.000.489,C:\Users\Doctor BIOS\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Proyectos RAD Studio\DoubleFactor\Unit1.dfm</Transaction>
+    <Transaction>2024/05/31 13:35:48.000.895,C:\Users\Doctor BIOS\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Proyectos RAD Studio\DoubleFactor\Project1.dproj</Transaction>
+    <Transaction>2024/06/02 21:55:01.000.782,=D:\Proyectos RAD Studio\Anti-Intruso\Unit1.pas</Transaction>
+    <Transaction>2024/06/02 21:55:36.000.076,D:\Proyectos RAD Studio\Anti-Intruso\DB.pas=D:\Proyectos RAD Studio\Anti-Intruso\Unit1.pas</Transaction>
+    <Transaction>2024/06/02 21:55:36.000.076,D:\Proyectos RAD Studio\Anti-Intruso\DB.dfm=D:\Proyectos RAD Studio\Anti-Intruso\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
