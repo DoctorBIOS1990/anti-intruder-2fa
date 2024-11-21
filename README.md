@@ -1,7 +1,9 @@
-# :policeman: Anti-Intruso
+# :policeman: Anti-Intruso (2f)
 
-Una pequeña proteccion de doble factor para Windows, sencillo pero molesto, a forma de ayuda rápida.</br> 
-  - Instalar como autoarranque
+A small, simple but annoying two-factor protection for Windows as a quick help.
+> Install as auto-boot
 
-<img src="https://github.com/DoctorBIOS1990/anti-intruso-doble-password/blob/main/ScreenShot/Screen.png">
+<div align="center">
+  <img src="https://github.com/DoctorBIOS1990/anti-intruso-doble-password/blob/main/ScreenShot/Screen.png">
+</div>
 
