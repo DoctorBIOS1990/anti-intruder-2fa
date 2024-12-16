@@ -1,4 +1,4 @@
-# :policeman: Anti-Intruder (2f)
+# :policeman: Anti-Intruder (2fa)
 
 A small, simple but annoying two-factor protection for Windows as a quick help.
 > Install as auto-boot
